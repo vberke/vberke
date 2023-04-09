@@ -1,4 +1,4 @@
-<img width="70%" src="https://lanyard-profile-readme.vercel.app/api/378243205080154113?bg=ff008077&borderRadius=7px">
+   <img width="70%" src="https://lanyard-profile-readme.vercel.app/api/378243205080154113?bg=ff008077&borderRadius=7px">
 </div>
 <p align="center">
 <a href="https://discord.gg/eVKQhnrzyg" target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-800c4c.svg?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
