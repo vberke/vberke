@@ -10,9 +10,4 @@
 <img width="70%" src="https://lanyard-profile-readme.vercel.app/api/378243205080154113?bg=5b0081&borderRadius=7px">
 </div>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-     ║ Spotify                                                                                           ║
-     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=tf412hk8cywbj2qy10ke28i4m&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=tf412hk8cywbj2qy10ke28i4m&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=212121&bar_color_cover=true" alt="Spotify" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tf412hk8cywbj2qy10ke28i4m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=tf412hk8cywbj2qy10ke28i4m&redirect=true)
