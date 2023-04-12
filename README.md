@@ -13,7 +13,4 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Spotify                                                                                           ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=n0xtie&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=n0xtie&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=212121&bar_color_cover=true" alt="Spotify" />
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n0xtie&count=7&width=320" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tf412hk8cywbj2qy10ke28i4m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
