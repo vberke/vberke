@@ -1,6 +1,6 @@
 <p align="center">
 <a href="            " target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-5b0081.svg?&style=for-the-badge&logo=discord&logoColor=fffff"></a>
-<a href="https://github.com/noxtie" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-5b0081.svg?&style=for-the-badge&logo=github&logoColor=fffff"></a>
+<a href="https://github.com/vberke" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-5b0081.svg?&style=for-the-badge&logo=github&logoColor=fffff"></a>
 <a href="            " target"blank_"><img width="16.5%" src="https://img.shields.io/badge/Spotify%20-5b0081.svg?&style=for-the-badge&logo=spotify&logoColor=fffff"></a>
 <a href="            " target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-5b0081.svg?&style=for-the-badge&logo=steam&logoColor=fffff%22"></a>
 
