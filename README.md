@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="            " target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-5b0081.svg?&style=for-the-badge&logo=discord&logoColor=fffff"></a>
 <a href="https://github.com/vberke" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-5b0081.svg?&style=for-the-badge&logo=github&logoColor=fffff"></a>
@@ -7,6 +8,7 @@
   
 <div align="center" >
 <img width="70%" src="https://lanyard-profile-readme.vercel.app/api/378243205080154113?bg=5b0081&borderRadius=7px">
+<a href="https://app.daily.dev/bvrke"><img src="https://api.daily.dev/devcards/v2/Gl9r7BZ9JlUNcuMvZ2lEN.png?type=wide&r=qy7" width="652" alt="berke's Dev Card"/></a>
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -18,6 +20,8 @@
   
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=tf412hk8cywbj2qy10ke28i4m&count=7&width=450" />
 
+<p align="center">
+  
 ## Database and Storage Technologies
 
 
