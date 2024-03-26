@@ -18,10 +18,15 @@
   
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=tf412hk8cywbj2qy10ke28i4m&count=7&width=450" />
 
+## Database and Storage Technologies
+
+
+<h3></h3>
+<img src="https://skillicons.dev/icons?i=sqlite,aws,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
+<br/>
   
   
   ## Languages and Tools:
-
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
