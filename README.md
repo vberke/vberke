@@ -26,7 +26,7 @@
 
 
 <h3></h3>
-<img src="https://skillicons.dev/icons?i=sqlite,aws,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
 <br/>
   
   
