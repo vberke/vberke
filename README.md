@@ -22,14 +22,6 @@
 
 <p align="center">
   
-## Database and Storage Technologies
-
-
-<h3></h3>
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
-<br/>
-  
-  
   ## Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
