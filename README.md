@@ -7,7 +7,7 @@
 
   
 <div align="center" >
-<img width="70%" src="https://lanyard-profile-readme.vercel.app/api/378243205080154113?bg=5b0081&borderRadius=7px">
+<img width="70%" src="https://lanyard-profile-readme.vercel.app/api/1036102210439876698=5b0081&borderRadius=7px">
 <a href="https://app.daily.dev/bvrke"><img src="https://api.daily.dev/devcards/v2/Gl9r7BZ9JlUNcuMvZ2lEN.png?type=wide&r=qy7" width="652" alt="berke's Dev Card"/></a>
 </div>
 
