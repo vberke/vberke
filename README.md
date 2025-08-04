@@ -1,7 +1,3 @@
-![snake animation](https://github.com/<seu vberke>/<seu vberke>/blob/output/github-contribution-grid-snake2.svg)
-
-
-
 <p align="center">
 <a href="            " target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-5b0081.svg?&style=for-the-badge&logo=discord&logoColor=fffff"></a>
 <a href="https://github.com/vberke" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-5b0081.svg?&style=for-the-badge&logo=github&logoColor=fffff"></a>
